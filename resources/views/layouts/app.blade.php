@@ -10,6 +10,7 @@
         <!-- Fonts -->
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap">
 
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
         <!-- Styles -->
         <link rel="stylesheet" href="{{ asset('css/app.css') }}">
 
